@@ -4,13 +4,5 @@
   "description": "Comprehensive Snowflake Cortex skills for agent management, AI functions, data governance, performance analysis, migrations, and more.",
   "author": {
     "name": "Heath Saber"
-  },
-  "keywords": [
-    "snowflake",
-    "cortex",
-    "data-engineering",
-    "sql",
-    "ai-functions",
-    "data-governance"
-  ]
+  }
 }
