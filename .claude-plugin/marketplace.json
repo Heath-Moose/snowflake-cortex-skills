@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "snowflake-cortex-skills",
+  "description": "Comprehensive Snowflake Cortex skills for agent management, AI functions, data governance, performance analysis, migrations, and more.",
+  "owner": {
+    "name": "Heath Saber"
+  },
+  "plugins": [
+    {
+      "name": "snowflake-cortex-skills",
+      "description": "Comprehensive Snowflake Cortex skills for agent management, AI functions, data governance, performance analysis, migrations, and more.",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "data-engineering",
+      "tags": ["snowflake", "cortex", "data-engineering", "sql", "ai-functions", "data-governance"]
+    }
+  ]
+}
